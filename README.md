@@ -12,6 +12,7 @@
 [![Chinese](https://img.shields.io/badge/-Chinese-yellow)](translations/README.zh-cn.md)
 [![Turkish](https://img.shields.io/badge/-Turkish-darkgreen)](translations/README.tr.md)
 [![French](https://img.shields.io/badge/-French-purple)](translations/README.fr.md)
+[![Japanese](https://img.shields.io/badge/-Japanese-red)](translations/README.ja.md)
 
 # IoT for Beginners - A Curriculum
 
@@ -29,7 +30,9 @@ The projects cover the journey of food from farm to table. This includes farming
 
 Meet the team!
 
-[![Promo video](./images/iot-for-beginners.png)](https://youtu.be/-wippUJRi5k)
+[![Promo video](./images/IOT.gif)](https://youtu.be/-wippUJRi5k)
+
+**Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
 
 > 🎥 Click the image above for a video about the project!
 
